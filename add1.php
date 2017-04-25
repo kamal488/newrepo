@@ -1,4 +1,6 @@
 <?php
-print_r($_SERVER);
-//echo "ddd";
+$x=10;
+$y=20;
+$z=$x+$y;
+echo $y;
 ?>
